@@ -1,6 +1,5 @@
 # 后端面试题
-## 说明
-本文档从[interview-project](https://github.com/ChaosXu/interview-project)项目fork而来,
+
 ## 目录
 
 1. [设计](#设计)
