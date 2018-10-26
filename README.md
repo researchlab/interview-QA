@@ -10,22 +10,22 @@
 
 ## Useful reference 
 
-- [ ] [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-- [ ] [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+- [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
-- [ ] [软件工程技术面试](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
+- [软件工程技术面试](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
 	
-- [ ] [Google Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+- [Google Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 
-- [ ] [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-- [ ] [ML/DL/NLP面试指南](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+- [ML/DL/NLP面试指南](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 
-- [ ] [Go Interview QA](https://goquiz.github.io/)
+- [Go Interview QA](https://goquiz.github.io/)
 
-- [ ] [Go epi QA](https://github.com/mrekucci/epi)
+- [Go epi QA](https://github.com/mrekucci/epi)
 
-- [ ] [fullstack-interview](https://github.com/neal1991/fullstack-interview)
+- [fullstack-interview](https://github.com/neal1991/fullstack-interview)
 
-- [ ] [golang-interview-cict](https://github.com/ru-lai/golang-interview)
+- [golang-interview-cict](https://github.com/ru-lai/golang-interview)
