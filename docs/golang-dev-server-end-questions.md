@@ -19,6 +19,12 @@
 ## 系统
 
 1. 简要介绍CAP，并给出CA CP AP的具体例子
+    - C consistency 
+		- A Availability
+		- P Partion Tolerance 
+		- CA: MySQL
+		- CP: HBase, MongoDB
+		- AP: cassandra
 1. 什么是竞争条件？
 1. 什么是死锁和饿死？
 1. 什么是Wait-Free算法？
